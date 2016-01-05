@@ -1,0 +1,23 @@
+﻿<section>
+    <div class="row">
+        <div class="col-md-5">
+            <div class="panel panel-default">
+                <div class="panel-heading">Drives
+                </div>
+                <div class="panel-body">
+                    <ul class="list-unstyled driveList">
+                        <li ng-repeat="d in drives"><a href="#/driveManager/{{d.name}}"><strong>{{d.name}}:/</strong> (Type:{{d.type}})</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-5">
+            <div class="well well-sm" role="alert">
+                <p>{{description}}</p>
+            </div>
+            <div class="alert alert-info" role="alert">
+                {{status.message}}
+            </div>
+        </div>
+    </div>
+</section>

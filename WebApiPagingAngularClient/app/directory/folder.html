@@ -1,0 +1,56 @@
+﻿<section>
+    <div class="row">
+        <div class="col-md-5">
+            <table class="table table-striped table-hover ">
+                <thead>
+                    <tr> 
+                        <th class="info" ><h4 class="text-center"><strong>Less 10Mb</strong></h4></th>
+                        <th class="success"><h4 class="text-center"><strong>10Mb-50Mb</strong></h4></th>
+                        <th class="danger"><h4 class="text-center"><strong>More 100Mb</strong></h4></th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr align="center">
+                        <td ><h4>{{info.countFiles.firstCount}}</h4></td>
+                        <td ><h4>{{info.countFiles.secondCount}}</h4></td>
+                        <td ><h4>{{info.countFiles.thirdCount}}</h4></td>
+                    </tr>
+                </tbody>
+            </table>
+            <div class="panel panel-default">
+                <div class="panel-heading">Current path <strong>{{info.path.name}}:\{{info.path.localPath}}\</strong></div>
+                <div class="panel-body">
+                    <ul class="list-unstyled clubList">
+                        <li><a href="#/driveManager/{{info.path.name}}/{{info.path.parentFolder}}"><strong>...</strong></a></li>
+                      
+                        <li ng-repeat="d in pages[info.currentPage].elements"><p ng-bind-html="sce.trustAsHtml(getTypes(d.type,d.name,info.path.name,info.path.folderPath))"></p></li>
+                    </ul>
+                    <pager total-pages="info.totalPages" current-page="info.currentPage" page-action="navigate(pageNumber)"></pager>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-5">
+            <div class="well well-sm" role="alert">
+                <p>{{description}}</p>
+            </div>
+            <div class="panel panel-default">
+                <div class="panel-heading">paging options</div>
+                <div class="panel-body">
+                    <form role="form">
+                        <div class="form-group-sm">
+                            <label for="pageSize">page size</label>
+                            <input id="pageSize" type="number" class="form-control" placeholder="page size" max="100" min="0" ng-model="options.size" ng-change="clear()">
+                        </div>
+                        <div class="form-group-sm">
+                            <label for="orderBy">order by</label>
+                            <select id="orderBy" class="form-control" ng-model="options.orderBy" ng-options="sp for sp in info.sortableProperties" ng-change="clear()"></select>
+                        </div>
+                    </form>
+                </div>
+            </div>
+            <div class="alert alert-info" role="alert">
+                {{status.message}}
+            </div>
+        </div>
+    </div>
+</section>

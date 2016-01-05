@@ -1,0 +1,64 @@
+C:\Users\OlehX\Desktop\C#\WebApiPagingAngularClient\bin\WebApiPagingAngularClient.dll.config
+C:\Users\OlehX\Desktop\C#\WebApiPagingAngularClient\bin\WebApiPagingAngularClient.dll
+C:\Users\OlehX\Desktop\C#\WebApiPagingAngularClient\bin\WebApiPagingAngularClient.pdb
+C:\Users\OlehX\Desktop\C#\WebApiPagingAngularClient\bin\Antlr3.Runtime.dll
+C:\Users\OlehX\Desktop\C#\WebApiPagingAngularClient\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\OlehX\Desktop\C#\WebApiPagingAngularClient\bin\Newtonsoft.Json.dll
+C:\Users\OlehX\Desktop\C#\WebApiPagingAngularClient\bin\System.Net.Http.Formatting.dll
+C:\Users\OlehX\Desktop\C#\WebApiPagingAngularClient\bin\System.Web.Helpers.dll
+C:\Users\OlehX\Desktop\C#\WebApiPagingAngularClient\bin\System.Web.Http.dll
+C:\Users\OlehX\Desktop\C#\WebApiPagingAngularClient\bin\System.Web.Http.WebHost.dll
+C:\Users\OlehX\Desktop\C#\WebApiPagingAngularClient\bin\System.Web.Mvc.dll
+C:\Users\OlehX\Desktop\C#\WebApiPagingAngularClient\bin\System.Web.Optimization.dll
+C:\Users\OlehX\Desktop\C#\WebApiPagingAngularClient\bin\System.Web.Razor.dll
+C:\Users\OlehX\Desktop\C#\WebApiPagingAngularClient\bin\System.Web.Webpages.Deployment.dll
+C:\Users\OlehX\Desktop\C#\WebApiPagingAngularClient\bin\System.Web.Webpages.dll
+C:\Users\OlehX\Desktop\C#\WebApiPagingAngularClient\bin\System.Web.Webpages.Razor.dll
+C:\Users\OlehX\Desktop\C#\WebApiPagingAngularClient\bin\WebGrease.dll
+C:\Users\OlehX\Desktop\C#\WebApiPagingAngularClient\bin\Antlr3.Runtime.pdb
+C:\Users\OlehX\Desktop\C#\WebApiPagingAngularClient\bin\System.Web.Optimization.xml
+C:\Users\OlehX\Desktop\C#\WebApiPagingAngularClient\bin\System.Web.Razor.xml
+C:\Users\OlehX\Desktop\C#\WebApiPagingAngularClient\bin\System.Web.Webpages.xml
+C:\Users\OlehX\Desktop\C#\WebApiPagingAngularClient\bin\System.Web.Webpages.Deployment.xml
+C:\Users\OlehX\Desktop\C#\WebApiPagingAngularClient\bin\System.Web.Webpages.Razor.xml
+C:\Users\OlehX\Desktop\C#\WebApiPagingAngularClient\bin\System.Web.Helpers.xml
+C:\Users\OlehX\Desktop\C#\WebApiPagingAngularClient\bin\System.Web.Mvc.xml
+C:\Users\OlehX\Desktop\C#\WebApiPagingAngularClient\bin\Newtonsoft.Json.xml
+C:\Users\OlehX\Desktop\C#\WebApiPagingAngularClient\bin\System.Net.Http.Formatting.xml
+C:\Users\OlehX\Desktop\C#\WebApiPagingAngularClient\bin\System.Web.Http.xml
+C:\Users\OlehX\Desktop\C#\WebApiPagingAngularClient\bin\System.Web.Http.WebHost.xml
+C:\Users\OlehX\Desktop\C#\WebApiPagingAngularClient\obj\Debug\WebApiPagingAngularClient.csprojResolveAssemblyReference.cache
+C:\Users\OlehX\Desktop\C#\WebApiPagingAngularClient\obj\Debug\WebApiPagingAngularClient.dll
+C:\Users\OlehX\Desktop\C#\WebApiPagingAngularClient\obj\Debug\WebApiPagingAngularClient.pdb
+D:\Work\File Browser\WebApiPagingAngularClient\bin\WebApiPagingAngularClient.dll.config
+D:\Work\File Browser\WebApiPagingAngularClient\bin\WebApiPagingAngularClient.dll
+D:\Work\File Browser\WebApiPagingAngularClient\bin\WebApiPagingAngularClient.pdb
+D:\Work\File Browser\WebApiPagingAngularClient\bin\Antlr3.Runtime.dll
+D:\Work\File Browser\WebApiPagingAngularClient\bin\Microsoft.Web.Infrastructure.dll
+D:\Work\File Browser\WebApiPagingAngularClient\bin\Newtonsoft.Json.dll
+D:\Work\File Browser\WebApiPagingAngularClient\bin\System.Net.Http.Formatting.dll
+D:\Work\File Browser\WebApiPagingAngularClient\bin\System.Web.Helpers.dll
+D:\Work\File Browser\WebApiPagingAngularClient\bin\System.Web.Http.dll
+D:\Work\File Browser\WebApiPagingAngularClient\bin\System.Web.Http.WebHost.dll
+D:\Work\File Browser\WebApiPagingAngularClient\bin\System.Web.Mvc.dll
+D:\Work\File Browser\WebApiPagingAngularClient\bin\System.Web.Optimization.dll
+D:\Work\File Browser\WebApiPagingAngularClient\bin\System.Web.Razor.dll
+D:\Work\File Browser\WebApiPagingAngularClient\bin\System.Web.Webpages.Deployment.dll
+D:\Work\File Browser\WebApiPagingAngularClient\bin\System.Web.Webpages.dll
+D:\Work\File Browser\WebApiPagingAngularClient\bin\System.Web.Webpages.Razor.dll
+D:\Work\File Browser\WebApiPagingAngularClient\bin\WebGrease.dll
+D:\Work\File Browser\WebApiPagingAngularClient\bin\Antlr3.Runtime.pdb
+D:\Work\File Browser\WebApiPagingAngularClient\bin\System.Web.Optimization.xml
+D:\Work\File Browser\WebApiPagingAngularClient\bin\System.Web.Razor.xml
+D:\Work\File Browser\WebApiPagingAngularClient\bin\System.Web.Webpages.xml
+D:\Work\File Browser\WebApiPagingAngularClient\bin\System.Web.Webpages.Deployment.xml
+D:\Work\File Browser\WebApiPagingAngularClient\bin\System.Web.Webpages.Razor.xml
+D:\Work\File Browser\WebApiPagingAngularClient\bin\System.Web.Helpers.xml
+D:\Work\File Browser\WebApiPagingAngularClient\bin\System.Web.Mvc.xml
+D:\Work\File Browser\WebApiPagingAngularClient\bin\Newtonsoft.Json.xml
+D:\Work\File Browser\WebApiPagingAngularClient\bin\System.Net.Http.Formatting.xml
+D:\Work\File Browser\WebApiPagingAngularClient\bin\System.Web.Http.xml
+D:\Work\File Browser\WebApiPagingAngularClient\bin\System.Web.Http.WebHost.xml
+D:\Work\File Browser\WebApiPagingAngularClient\obj\Debug\WebApiPagingAngularClient.csprojResolveAssemblyReference.cache
+D:\Work\File Browser\WebApiPagingAngularClient\obj\Debug\WebApiPagingAngularClient.dll
+D:\Work\File Browser\WebApiPagingAngularClient\obj\Debug\WebApiPagingAngularClient.pdb
